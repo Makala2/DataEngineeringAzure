@@ -1,0 +1,9 @@
+{
+	"name": "data-factory-katios",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0ba21adc-5a4a-4842-8714-0e6e7d26aa0f",
+		"tenantId": "e1e5c8e0-d618-43b1-9919-87f86c28bd0c"
+	}
+}
